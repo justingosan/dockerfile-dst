@@ -1,0 +1,1 @@
+//paste server token here. Keep it in one line
